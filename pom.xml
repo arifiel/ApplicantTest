@@ -13,6 +13,7 @@
     <modules>
         <module>first</module>
         <module>second</module>
+        <module>both</module>
     </modules>
 
 </project>
